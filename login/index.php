@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Host = 'smtp.gmail.com'; // SMTP server
         $mail->SMTPAuth = true; // Mengaktifkan autentikasi SMTP
         $mail->Username = 'nugra315@gmail.com'; // Eamail pengirim
-        $mail->Password = 'xmxb hxtz daym biru'; // Password email pengirim
+        $mail->Password = ' xx x x x x x x x x'; // Password email pengirim
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
